@@ -27,7 +27,6 @@ debug = False  # Pour afficher plus d'informations en console
 usb_port = serial.Serial('/dev/ttyAMA0', 57600, timeout=1)
 usb_port.open()
 
-freq = -1
 
 
 # Lecture en continue depuis l'arduino dans la variable globale freq
