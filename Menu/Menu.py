@@ -1,1 +1,2 @@
 print "HELLOO"
+print "ok"
